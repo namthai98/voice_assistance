@@ -10,4 +10,4 @@ def speak(text):
     tts.save(filename)
     playsound.playsound(filename)
 
-speak("hello tim. nice to meet you. my name is Nam")
+speak("Detected face touching")
